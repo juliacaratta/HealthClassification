@@ -16,6 +16,15 @@ The UN expects that by 2030, countries end preventable deaths of newborns and ch
 
 > In light of what was mentioned above, Cardiotocograms (CTGs) are a simple and cost accessible option to assess fetal health, allowing healthcare professionals to take action in order to prevent child and maternal mortality. The equipment itself works by sending ultrasound pulses and reading its response, thus shedding light on fetal heart rate (FHR), fetal movements, uterine contractions and more.
 
+> The dataset contains 2126 records of features extracted from Cardiotocogram exams, which were then classified by three expert obstetritians into 3 classes: Normal, Suspect and Pathological
+
 ### Acknowledgement
 > The dataset for this project is provided by Ayres de Campos et al. (2000) SisPorto 2.0 A Program for Automated Analysis of Cardiotocograms. J Matern Fetal Med 5:311-318.
 
+
+## Result
+You can find the project's description in my  [LinkedIn]([https://pages.github.com/](https://www.linkedin.com/in/juliacaratta?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACmDilwBkTIRc7VXWYCafTi4GV14Dnvh6hU&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BYN%2FVwQd5RnKOthKw9AL87Q%3D%3D
+))
+
+Result:
+![image](https://github.com/user-attachments/assets/f3e0d50c-17a1-42af-b0c9-61a26ab68739)
