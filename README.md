@@ -23,8 +23,7 @@ The UN expects that by 2030, countries end preventable deaths of newborns and ch
 
 
 ## Result
-You can find the project's description in my  [LinkedIn]([https://pages.github.com/](https://www.linkedin.com/in/juliacaratta?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACmDilwBkTIRc7VXWYCafTi4GV14Dnvh6hU&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BYN%2FVwQd5RnKOthKw9AL87Q%3D%3D
-))
+You can find the project's description in my  [LinkedIn](https://www.linkedin.com/posts/juliacaratta_github-juliacarattahealthclassification-activity-7247710580495532034-umZE?utm_source=share&utm_medium=member_desktop)
 
 Result:
 ![image](https://github.com/user-attachments/assets/f3e0d50c-17a1-42af-b0c9-61a26ab68739)
